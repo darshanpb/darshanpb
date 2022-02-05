@@ -8,5 +8,5 @@
 _(A simple web app for auctioning...)_
 
 #### InProgress:
-- [Reactive](https://github.com/darshanpb/reactive)  
+- [Reverie](https://github.com/darshanpb/reverie)  
 _(React Components Library)_
