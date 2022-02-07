@@ -10,3 +10,6 @@ _(A simple web app for auctioning...)_
 #### InProgress:
 - [Reverie](https://github.com/darshanpb/reverie)  
 _(React Components Library)_
+
+- [Sway-Truss](https://github.com/darshanpb/Sway_Truss)  
+_(Dashboard Design using react)_
